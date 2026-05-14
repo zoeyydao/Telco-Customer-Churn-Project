@@ -70,5 +70,5 @@ Several predictive models were developed and evaluated, including **Logistic Reg
 * Enhance the paperless billing experience and transparency.
 * Review and improve Fiber Optic service quality and reliability.
 * Implement proactive network monitoring to prevent service issues.
-* Use churn prediction models to identify and engage high-risk customers early.
+* Use Tuned Random Forest model to identify and engage high-risk customers early.
 * Apply targeted retention strategies for different customer segments.
