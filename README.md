@@ -63,7 +63,12 @@ Several predictive models were developed and evaluated, including **Logistic Reg
 ![kmeans](images/kmeans.png)
 
 ## Recommendations
-* Implement a multi-layered retention strategy focusing on early-stage onboarding for new customers.
-* Encourage shifts toward long-term contracts and automatic payment methods.
-* Improve fiber service quality and transparency regarding high-cost plan pricing.
-* Develop a model-driven early warning system for proactive customer engagement.
+* Strengthen onboarding and retention programs for new customers.
+* Provide senior-friendly plans, simpler billing, and dedicated support.
+* Encourage long-term contracts with discounts and incentives.
+* Improve payment flexibility and resolve electronic check issues.
+* Enhance the paperless billing experience and transparency.
+* Review and improve Fiber Optic service quality and reliability.
+* Implement proactive network monitoring to prevent service issues.
+* Use churn prediction models to identify and engage high-risk customers early.
+* Apply targeted retention strategies for different customer segments.
